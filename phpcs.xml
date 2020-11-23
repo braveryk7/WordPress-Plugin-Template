@@ -3,4 +3,4 @@
     <rule ref="WordPress">
         <exclude name="Generic.Arrays.DisallowShortArraySyntax" />
     </rule>
-</ruleset>ß
+</ruleset>
